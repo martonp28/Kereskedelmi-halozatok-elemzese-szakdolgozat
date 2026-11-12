@@ -1,1 +1,1 @@
-# Szakdolgozat
+# Kereskedelmi hálózatok elemzése
